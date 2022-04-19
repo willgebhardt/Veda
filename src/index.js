@@ -5,7 +5,7 @@ import "./index.css";
 import App from "./App";
 
 ReactDOM.render(
-  <HashRouter basename="/Veda">
+  <HashRouter>
     <App />
   </HashRouter>,
   document.getElementById("root")
